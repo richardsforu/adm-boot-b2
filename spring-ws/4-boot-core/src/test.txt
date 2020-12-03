@@ -1,0 +1,3 @@
+2020-12-03 10:17:25.420  INFO 5330 --- [main] com.cts.product.Application              : Starting Application using Java 1.8.0_271 on Praveens-MacBook-Pro-2.local with PID 5330 (/Users/praveen/Training/Cognizant/adm-boot-b2/spring-ws/4-boot-core/target/classes started by praveen in /Users/praveen/Training/Cognizant/adm-boot-b2/spring-ws/4-boot-core)
+2020-12-03 10:17:25.422  INFO 5330 --- [main] com.cts.product.Application              : No active profile set, falling back to default profiles: default
+2020-12-03 10:17:25.781  INFO 5330 --- [main] com.cts.product.Application              : Started Application in 0.665 seconds (JVM running for 1.492)
