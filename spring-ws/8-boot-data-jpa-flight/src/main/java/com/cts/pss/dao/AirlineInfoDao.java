@@ -6,4 +6,7 @@ import com.cts.pss.entity.AirlineInfo;
 
 public interface AirlineInfoDao  extends JpaRepository<AirlineInfo, Long>{
 
+	
+	
+	
 }
